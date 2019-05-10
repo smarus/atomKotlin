@@ -2,14 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2b1c9f1-ae8b-4bff-8141-39b12cfb035e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Basics/Functions/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Functions/Exercise 2/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Basics/Functions/Exercise 3/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Functions/Exercise 3/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Basics/Functions/Exercise 4/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Functions/Exercise 4/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/functions1.TestFunctions1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/functions1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-functions1.TestFunctions1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics/Booleans/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Booleans/Exercise 1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics/Booleans/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Booleans/Exercise 2/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics/Looping &amp; Ranges/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Looping &amp; Ranges/Exercise 1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics/Number Types/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Number Types/Exercise 1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics/Number Types/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Number Types/Exercise 2/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics/Number Types/Exercise 3/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Number Types/Exercise 3/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics/Number Types/Exercise 4/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Number Types/Exercise 4/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 2/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics/String Templates/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/String Templates/Exercise 1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics/String Templates/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/String Templates/Exercise 2/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 2/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 3/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 3/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/booleans1/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/booleans1/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/booleans2/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/booleans2/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/functions2/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/functions2/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/functions3/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/functions3/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/functions4/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/functions4/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ifExpressions1/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ifExpressions1/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ifExpressions2/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ifExpressions2/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ifExpressions3/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ifExpressions3/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/loopingandRanges1/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/loopingandRanges1/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/numberTypes1/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/numberTypes1/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/numberTypes2/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/numberTypes2/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/numberTypes3/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/numberTypes3/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/numberTypes4/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/numberTypes4/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/repetitionwithwhile1/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/repetitionwithwhile1/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/repetitionwithwhile2/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/repetitionwithwhile2/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/stringTemplates1/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/stringTemplates1/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/stringTemplates2/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/stringTemplates2/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/test/numberTypes2/TestNumberTypes2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/test/numberTypes2/TestNumberTypes2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -34,11 +104,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Programming Basics/if Expressions/Examples/src/If1.kt">
+        <entry file="file://$PROJECT_DIR$/Programming Basics/Looping &amp; Ranges/Exercise 3/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState />
+                <MainEditorState relative-caret-position="72">
+                  <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+                </MainEditorState>
               </EduEditorState>
             </state>
           </provider>
@@ -64,6 +136,21 @@
         <option value="$PROJECT_DIR$/Programming Basics/Functions/Exercise 2/src/Task.kt" />
         <option value="$PROJECT_DIR$/Programming Basics/Functions/Exercise 3/src/Task.kt" />
         <option value="$PROJECT_DIR$/Programming Basics/Functions/Exercise 4/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 2/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 3/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Programming Basics/String Templates/Exercise 1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Programming Basics/String Templates/Exercise 2/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Programming Basics/Number Types/Exercise 1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Programming Basics/Number Types/Exercise 2/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Programming Basics/Number Types/Exercise 3/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Programming Basics/Number Types/Exercise 4/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Programming Basics/Booleans/Exercise 1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Programming Basics/Booleans/Exercise 2/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 2/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Programming Basics/Looping &amp; Ranges/Exercise 1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Programming Basics/Looping &amp; Ranges/Exercise 2/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -97,26 +184,20 @@
               <item name="AtomicKotlin" type="a264ea2a:RootNode" />
               <item name="AtomicKotlin" type="ed842865:CourseNode" />
               <item name="Programming Basics" type="76d92c43:SectionNode" />
-              <item name="Functions" type="d53b8fed:LessonNode" />
+              <item name="Looping &amp; Ranges" type="d53b8fed:LessonNode" />
             </path>
             <path>
               <item name="AtomicKotlin" type="a264ea2a:RootNode" />
               <item name="AtomicKotlin" type="ed842865:CourseNode" />
               <item name="Programming Basics" type="76d92c43:SectionNode" />
-              <item name="Functions" type="d53b8fed:LessonNode" />
+              <item name="Looping &amp; Ranges" type="d53b8fed:LessonNode" />
               <item name="src" type="4928525d:TaskNode" />
             </path>
             <path>
               <item name="AtomicKotlin" type="a264ea2a:RootNode" />
               <item name="AtomicKotlin" type="ed842865:CourseNode" />
               <item name="Programming Basics" type="76d92c43:SectionNode" />
-              <item name="if Expressions" type="d53b8fed:LessonNode" />
-            </path>
-            <path>
-              <item name="AtomicKotlin" type="a264ea2a:RootNode" />
-              <item name="AtomicKotlin" type="ed842865:CourseNode" />
-              <item name="Programming Basics" type="76d92c43:SectionNode" />
-              <item name="if Expressions" type="d53b8fed:LessonNode" />
+              <item name="Looping &amp; Ranges" type="d53b8fed:LessonNode" />
               <item name="src" type="4928525d:TaskNode" />
             </path>
           </expand>
@@ -129,7 +210,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557501017148" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557503962265" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -180,16 +261,23 @@
       <workItem from="1553866558558" duration="5606000" />
       <workItem from="1554114333638" duration="597000" />
       <workItem from="1557498603968" duration="193000" />
-      <workItem from="1557498854385" duration="1543000" />
+      <workItem from="1557498854385" duration="4632000" />
     </task>
+    <task id="LOCAL-00001" summary="dasda">
+      <created>1557501047214</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557501047214</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7939000" />
+    <option name="totallyTimeSpent" value="11028000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25815368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -205,11 +293,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50248754" side_tool="true" visible="true" weight="0.32846716" />
       <window_info anchor="bottom" id="Build" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.33019853" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" auto_hide="true" id="Educational.CheckDetails" order="11" visible="true" weight="0.3291536" />
+      <window_info anchor="bottom" auto_hide="true" id="Educational.CheckDetails" order="11" sideWeight="0.49751243" weight="0.3291536" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3295099" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -230,84 +318,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dasda" />
+    <option name="LAST_COMMIT_MESSAGE" value="dasda" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Hello, World!/Examples/src/EmptyProgram.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="72">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Hello, World!/Exercise 1/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="54">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Hello, World!/Exercise 2/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="72">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Hello, World!/Exercise 3/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="72">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Hello, World!/Exercise 4/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState>
-              <caret column="3" selection-end-column="3" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/var &amp; val/Examples/src/Vars.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/var &amp; val/Exercise 1/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="72">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Programming Basics/var &amp; val/Exercise 2/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
@@ -457,6 +472,366 @@
         <state>
           <EduEditorState>
             <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 1/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="72">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 2/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="108">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 3/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="36">
+              <caret line="2" column="81" selection-start-line="2" selection-start-column="81" selection-end-line="2" selection-end-column="81" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 4/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="198">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/String Templates/Examples/src/ExpressionInTemplate.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/String Templates/Exercise 1/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="198">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/String Templates/Exercise 2/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="54">
+              <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/String Templates/Exercise 3/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/String Templates/Exercise 4/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/BMI.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/BiggestLong.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/InferInt.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/IntDivisionTruncates.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/IntegerMath.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/IntegerOverflow.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/LongConstants.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/Modulus.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/OpOrderParens.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Number Types/Exercise 1/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="216">
+              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Number Types/Exercise 2/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="234">
+              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Number Types/Exercise 3/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="198">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Number Types/Exercise 4/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="54">
+              <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Number Types/Exercise 5/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Booleans/Examples/src/Booleans1.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Booleans/Exercise 1/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="162">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Booleans/Exercise 2/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="108">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Booleans/Exercise 3/src/Foo.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Repetition with while/Examples/src/AssignmentOperators.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 1/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="162">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 2/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="198">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 3/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="90">
+              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 4/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Looping &amp; Ranges/Examples/src/AddingIntToChar.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Looping &amp; Ranges/Exercise 1/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="216">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Looping &amp; Ranges/Exercise 2/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="270">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Looping &amp; Ranges/Exercise 3/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="72">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </MainEditorState>
           </EduEditorState>
         </state>
       </provider>
