@@ -2,9 +2,16 @@ package exceptions1
 
 import atomictest.capture
 import atomictest.eq
+import java.lang.IllegalArgumentException
 
 fun repeatChar(ch: Char, n: Int): String {
-    TODO()
+    if (n < 0)
+        throw IllegalArgumentException("Count 'n' must be non-negative, but was $n.")
+    var string: String =""
+    repeat(n){
+        string+=ch
+    }
+    return string
 }
 
 fun main(args: Array<String>) {
